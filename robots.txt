@@ -1,0 +1,8 @@
+# Robots.txt for Reflex Wars
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://reflexwars.game/sitemap.xml
+
